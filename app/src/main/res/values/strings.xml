@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Digital Technologies</string>
+    <string name="preferencesFile">com.e.digitaltechnologies</string>
+</resources>
