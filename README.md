@@ -9,4 +9,6 @@ This is an internship task given by Digital Technologies. Fetch the image and de
 * Glide
 * SharedPreferences
 * Menu
-![See the Working](https://drive.google.com/file/d/13qtyx6exLIipP6aot_WhKUNbypVhLUv-/view?usp=sharing)
+
+## Output
+![See the Working](demo/demo.gif)
